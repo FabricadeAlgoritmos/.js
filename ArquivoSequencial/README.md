@@ -1,0 +1,1 @@
+este arquivo foi executado usando nodeJS pelo CMD do Windows.

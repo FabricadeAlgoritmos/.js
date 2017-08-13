@@ -13,6 +13,7 @@ while(troca != 0){
             troca = 1;
         }
     }
+    max--;
 }
 
 console.log(vetor);
